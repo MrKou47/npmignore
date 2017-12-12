@@ -2,8 +2,9 @@
   "name": "npmignore",
   "displayName": "npmignore",
   "description": "Add file to .npmignore",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "mrkou47",
+  "icon": "images/npmignore_logo.jpg",
   "engines": {
     "vscode": "^1.18.0"
   },
